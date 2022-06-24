@@ -7,7 +7,7 @@
 ##   Downloading Procedure of HP Printer Driver
 
 
-You can download and install drivers for your printer from the hp printer driver official website and follow the steps given below:
+_You can download and install drivers for your printer from the hp printer driver official website and follow the steps given below:_
 
 1. Switch on your printer and computer.
 2. Make sure that they are connected to the same wireless network (Applicable for wirelessly enabled printers)
@@ -19,7 +19,7 @@ You can download and install drivers for your printer from the hp printer driver
 
 ##   How To Install HP Wireless Printer via CD Media?
 
-The installation procedure of an HP wireless printer into your operating system completes in just a few steps. Follow them accordingly:
+_The installation procedure of an HP wireless printer into your operating system completes in just a few steps. Follow them accordingly:_
 
 1. Take out the CD from the pack and insert in your Disk Drive
 2. Your operating system will notify you about the CD inserted.
@@ -34,7 +34,7 @@ The installation procedure of an HP wireless printer into your operating system 
 
 ##   How to reinstall HP wireless printer?
 
-If you want to uninstall your HP printer software from your operating system and then reinstall it, follow the instructions step-wise:
+_If you want to uninstall your HP printer software from your operating system and then reinstall it, follow the instructions step-wise:_
 
 1. Start the Windows operating system and type ‘Devices and Printers’
 2. Search HP Printer and right-click on the HP wireless printer software and choose the **‘Delete or Remove’** option.
