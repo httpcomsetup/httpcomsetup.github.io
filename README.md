@@ -1,6 +1,6 @@
 # 123.hp.com/setup
 
-[![123hp.com/setup](get-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123hp.com/setup](get-started.png)](https://hp.printredir.com)
 
 **HP Printer Driver** is very cost effective and the best decision one can take while making purchase of a Printer drive. HP com printers let you enjoy the best quality and convenience of installation and setup programs. Visit : [123.hp.com/setup](https://httpcomsetup.github.io/)  to get started with it without facing problems and troubles.
 
